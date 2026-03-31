@@ -5,13 +5,13 @@ A minimal command-line weather tool powered by the [Google Weather API](https://
 ## Install
 
 ```sh
-go install github.com/paulhatch/google-weather-cli@latest
+go install github.com/ptrotter1/google-weather-cli@latest
 ```
 
 Or build from source:
 
 ```sh
-git clone https://github.com/paulhatch/google-weather-cli.git
+git clone https://github.com/ptrotter1/google-weather-cli.git
 cd google-weather-cli
 go install .
 ```
